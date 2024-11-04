@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikazeacu.github.io/GRn/sitemap_index.txt
+Sitemap: https://ikazeacu.github.io/YpP/sitemap_index.txt
+Sitemap: https://ikazeacu.github.io/gGR/sitemap_index.txt
+Sitemap: https://ikazeacu.github.io/wRY/sitemap_index.txt
